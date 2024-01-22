@@ -3,12 +3,12 @@ entries:
   confMap:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-22T11:18:25.479625254Z"
+    created: "2024-01-22T11:32:01.447796695Z"
     description: A Helm chart for Kubernetes
-    digest: 39b361abfc2bdc0c180229172c7961f66e058ba9d38577b7a9bac38fbf9843b7
+    digest: 7dc10f5ff6071c523c9d673a0aaf627abfd26eb29b3bc0b7ff1e9768b83bec4b
     name: confMap
     type: application
     urls:
     - confMap-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-22T11:18:25.479065495Z"
+generated: "2024-01-22T11:32:01.447433011Z"
